@@ -268,7 +268,7 @@ export default function App() {
                   className="py-2.5 px-5 bg-[#FAF9F6] border border-stone-200 hover:bg-stone-50 text-stone-600 text-[11px] tracking-widest font-semibold uppercase rounded-lg transition-colors flex items-center justify-center gap-2 cursor-pointer"
                 >
                   <RotateCcw className="w-3.5 h-3.5" />
-                  <span>RESET TODAY'S FORTUNE</span>
+                  <span>GO BACK</span>
                 </button>
               </div>
 
@@ -281,7 +281,7 @@ export default function App() {
       <footer id="app_footer" className="w-full max-w-lg mx-auto text-center mt-4">
         {/* Informative text */}
         <p className="mt-6 text-[10px] text-stone-400 tracking-wider leading-relaxed max-w-xs mx-auto font-light uppercase">
-          Client-Side Secure · No browser user-tracking data stored
+          Daily Fortune with Shion
         </p>
       </footer>
     </div>
