@@ -1,0 +1,6 @@
+{
+  "name": "Daily Fortune",
+  "description": "A clean, static daily divination web application that reveals your guidance, lucky item, and lucky color based on your IP and date.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
